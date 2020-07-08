@@ -1,6 +1,6 @@
 # Izveidoja: Kristiāns Kokars
 from textfunctions import TextFunctions #importējam mūsu funkcijas
-
+from texteditingmode import TextEditingMode
 print("1: New File\n2: Open File\n3: Read File\n4: Write to File\n5: Append\n6: Editing Mode\n7: Exit") #izprintē opcijas
 user_choice = input() #gaidam lietotāju input priekš izvēlnes
 
